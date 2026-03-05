@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="U+ 로그인(통합조직관리)">2f5de8af53d3f210eea679a0a0490e1b</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-04 07:38:08</sys_created_on>
+        <sys_id>2f2a382b5357f210eea679a0a0490eab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.U+ 로그인(통합조직관리)</sys_name>
+        <sys_package display_value="Safety Desk" source="x_1903597_safety_0">d60dec6f53d3f210eea679a0a0490e26</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety Desk">d60dec6f53d3f210eea679a0a0490e26</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_2f2a382b5357f210eea679a0a0490eab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-04 07:38:08</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety Desk">d60dec6f53d3f210eea679a0a0490e26</application>
+        <file_path/>
+        <instance_id>0d10aadcff7fc218c812f8e4fc4fd928</instance_id>
+        <instance_name>dev284015</instance_name>
+        <name>sc_cat_item_catalog_2f2a382b5357f210eea679a0a0490eab</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="U+ 로그인(통합조직관리)">2f5de8af53d3f210eea679a0a0490e1b</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-03-04 07:38:08</sys_created_on><sys_id>2f2a382b5357f210eea679a0a0490eab</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.U+ 로그인(통합조직관리)</sys_name><sys_package display_value="Safety Desk" source="x_1903597_safety_0">d60dec6f53d3f210eea679a0a0490e26</sys_package><sys_policy/><sys_scope display_value="Safety Desk">d60dec6f53d3f210eea679a0a0490e26</sys_scope><sys_update_name>sc_cat_item_catalog_2f2a382b5357f210eea679a0a0490eab</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-03-04 07:38:08</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>133682180</payload_hash>
+        <record_name>Service Catalog.U+ 로그인(통합조직관리)</record_name>
+        <reverted_from/>
+        <source>520dec6f53d3f210eea679a0a0490e7a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-04 07:38:08</sys_created_on>
+        <sys_id>a32a382b5357f210eea679a0a0490eb1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19cb7c860560000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-04 07:38:08</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>6f2a382b9757f2108668d28a79a4d4af</update_guid>
+        <update_guid_history>6f2a382b9757f2108668d28a79a4d4af:133682180</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.U+ 로그인(통합조직관리)">f68cb06f5357f210eea679a0a0490ea4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-04 07:48:27</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>116aa513644a477886abbe0c6de41bc4</sys_id>
+        <sys_metadata>2f2a382b5357f210eea679a0a0490eab</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.U+ 로그인(통합조직관리)</sys_name>
+        <sys_package display_value="Safety Desk" source="x_1903597_safety_0">d60dec6f53d3f210eea679a0a0490e26</sys_package>
+        <sys_parent display_value="U+ 로그인(통합조직관리)">2f5de8af53d3f210eea679a0a0490e1b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Safety Desk">d60dec6f53d3f210eea679a0a0490e26</sys_scope>
+        <sys_scope_delete display_value="">2560e7c7c67b437cb2e4053956637a89</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_2f2a382b5357f210eea679a0a0490eab</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_2f2a382b5357f210eea679a0a0490eab">a32a382b5357f210eea679a0a0490eb1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-04 07:48:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

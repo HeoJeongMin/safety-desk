@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="DELETE">
+        <order>450</order>
+        <sc_cat_item display_value="U+ 로그인(통합조직관리)">2f5de8af53d3f210eea679a0a0490e1b</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-04 07:50:43</sys_created_on>
+        <sys_id>081df06f5357f210eea679a0a0490eca</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Citizen Developer Application - Base.U+ 로그인(통합조직관리)</sys_name>
+        <sys_package display_value="Safety Desk" source="x_1903597_safety_0">d60dec6f53d3f210eea679a0a0490e26</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety Desk">d60dec6f53d3f210eea679a0a0490e26</sys_scope>
+        <sys_update_name>io_set_item_081df06f5357f210eea679a0a0490eca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-04 07:50:45</sys_updated_on>
+        <variable_set display_value="Citizen Developer Application - Base">b3889bc753d15110b846ddeeff7b126b</variable_set>
+    </io_set_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety Desk">d60dec6f53d3f210eea679a0a0490e26</application>
+        <file_path/>
+        <instance_id>0d10aadcff7fc218c812f8e4fc4fd928</instance_id>
+        <instance_name>dev284015</instance_name>
+        <name>io_set_item_081df06f5357f210eea679a0a0490eca</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item"><io_set_item action="INSERT_OR_UPDATE"><order>450</order><sc_cat_item display_value="U+ 로그인(통합조직관리)">2f5de8af53d3f210eea679a0a0490e1b</sc_cat_item><sys_class_name>io_set_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-03-04 07:50:43</sys_created_on><sys_id>081df06f5357f210eea679a0a0490eca</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Citizen Developer Application - Base.U+ 로그인(통합조직관리)</sys_name><sys_package display_value="Safety Desk" source="x_1903597_safety_0">d60dec6f53d3f210eea679a0a0490e26</sys_package><sys_policy/><sys_scope display_value="Safety Desk">d60dec6f53d3f210eea679a0a0490e26</sys_scope><sys_update_name>io_set_item_081df06f5357f210eea679a0a0490eca</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-03-04 07:50:45</sys_updated_on><variable_set display_value="Citizen Developer Application - Base">b3889bc753d15110b846ddeeff7b126b</variable_set></io_set_item></record_update>]]></payload>
+        <payload_hash>715207418</payload_hash>
+        <record_name>Citizen Developer Application - Base.U+ 로그인(통합조직관리)</record_name>
+        <reverted_from/>
+        <source>520dec6f53d3f210eea679a0a0490e7a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-04 07:50:45</sys_created_on>
+        <sys_id>e01df0af5357f210eea679a0a0490e69</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19cb7d3ef8a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-04 07:50:45</sys_updated_on>
+        <type>Catalog Variable Set</type>
+        <update_guid>ac1df0aff457f210505bb431cc05e967</update_guid>
+        <update_guid_history>ac1df0aff457f210505bb431cc05e967:715207418,841db0afaf57f2106bfcc7bf2b4086f4:1109628316</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Citizen Developer Application - Base.U+ 로그인(통합조직관리)">ac2db8e75357f210eea679a0a0490e1e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-04 07:51:02</sys_created_on>
+        <sys_db_object display_value="" name="io_set_item">io_set_item</sys_db_object>
+        <sys_id>07d09200668d46c281ebcab391ee9429</sys_id>
+        <sys_metadata>081df06f5357f210eea679a0a0490eca</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Citizen Developer Application - Base.U+ 로그인(통합조직관리)</sys_name>
+        <sys_package display_value="Safety Desk" source="x_1903597_safety_0">d60dec6f53d3f210eea679a0a0490e26</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety Desk">d60dec6f53d3f210eea679a0a0490e26</sys_scope>
+        <sys_scope_delete display_value="">2560e7c7c67b437cb2e4053956637a89</sys_scope_delete>
+        <sys_update_name>io_set_item_081df06f5357f210eea679a0a0490eca</sys_update_name>
+        <sys_update_version display_value="io_set_item_081df06f5357f210eea679a0a0490eca">e01df0af5357f210eea679a0a0490e69</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-04 07:51:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
