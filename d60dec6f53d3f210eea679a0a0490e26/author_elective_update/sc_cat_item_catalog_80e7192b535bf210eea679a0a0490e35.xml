@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Test">8d7759e7535bf210eea679a0a0490ec4</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-04 09:47:52</sys_created_on>
+        <sys_id>80e7192b535bf210eea679a0a0490e35</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Test</sys_name>
+        <sys_package display_value="Safety Desk" source="x_1903597_safety_0">d60dec6f53d3f210eea679a0a0490e26</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety Desk">d60dec6f53d3f210eea679a0a0490e26</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_80e7192b535bf210eea679a0a0490e35</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-04 09:47:52</sys_updated_on>
+    </sc_cat_item_catalog>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety Desk">d60dec6f53d3f210eea679a0a0490e26</application>
+        <file_path/>
+        <instance_id>d597ce51ffd1e25cc812f8e4fc4fd94f</instance_id>
+        <instance_name>dev341177</instance_name>
+        <name>sc_cat_item_catalog_80e7192b535bf210eea679a0a0490e35</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Test">8d7759e7535bf210eea679a0a0490ec4</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-04 09:47:52</sys_created_on>
+        <sys_id>80e7192b535bf210eea679a0a0490e35</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Test</sys_name>
+        <sys_package display_value="Safety Desk" source="x_1903597_safety_0">d60dec6f53d3f210eea679a0a0490e26</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety Desk">d60dec6f53d3f210eea679a0a0490e26</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_80e7192b535bf210eea679a0a0490e35</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-04 09:47:52</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>]]></payload>
+        <payload_hash>1611294311</payload_hash>
+        <record_name>Service Catalog.Test</record_name>
+        <reverted_from/>
+        <source>a5f335bb47533210456e8c64116d4380</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-05 06:29:07</sys_created_on>
+        <sys_id>e6f379bb47533210456e8c64116d43fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19cbcaf8e230000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-05 06:29:07</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>a6f379bbc1533210070f88fe1f0962fe</update_guid>
+        <update_guid_history>a6f379bbc1533210070f88fe1f0962fe:1611294311</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Test">90eefd9b4767b250456e8c64116d4365</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-16 04:15:30</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>dcc0fb73e2434c84951f603841738190</sys_id>
+        <sys_metadata>80e7192b535bf210eea679a0a0490e35</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Test</sys_name>
+        <sys_package display_value="Safety Desk" source="x_1903597_safety_0">d60dec6f53d3f210eea679a0a0490e26</sys_package>
+        <sys_parent display_value="">8d7759e7535bf210eea679a0a0490ec4</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Safety Desk">d60dec6f53d3f210eea679a0a0490e26</sys_scope>
+        <sys_scope_delete display_value="">2560e7c7c67b437cb2e4053956637a89</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_80e7192b535bf210eea679a0a0490e35</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_80e7192b535bf210eea679a0a0490e35">e6f379bb47533210456e8c64116d43fe</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-16 04:15:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

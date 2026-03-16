@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7790ae0547af3210456e8c64116d4349" label="u_domain" max_length="40" name="x_1903597_safety_0_u_domain" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Code" max_length="40" name="code" type="string"/>
+    </element>
+</database>

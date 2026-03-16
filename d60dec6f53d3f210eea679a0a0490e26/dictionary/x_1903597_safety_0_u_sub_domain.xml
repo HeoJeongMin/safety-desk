@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="345d660147237210456e8c64116d433a" label="u_sub_domain" max_length="40" name="x_1903597_safety_0_u_sub_domain" type="collection">
+        <element label="Domain" max_length="32" name="domain" reference="x_1903597_safety_0_u_domain" type="reference"/>
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element label="Code" max_length="40" name="code" type="string"/>
+        <index name="index">
+            <element name="domain"/>
+        </index>
+    </element>
+</database>
