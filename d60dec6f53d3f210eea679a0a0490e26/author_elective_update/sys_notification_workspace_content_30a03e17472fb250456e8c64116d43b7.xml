@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_notification_workspace_content">
+    <sys_notification_workspace_content action="DELETE">
+        <active>true</active>
+        <is_default>false</is_default>
+        <name>Inquiry Assigned Notification</name>
+        <notification display_value="Inquiry Assigned Notification">088fe293472fb250456e8c64116d43cd</notification>
+        <route display_value="Agent Workspace">cb1af195872023002941b53046cb0b4e</route>
+        <sys_class_name>sys_notification_workspace_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-16 07:53:16</sys_created_on>
+        <sys_id>30a03e17472fb250456e8c64116d43b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Inquiry Assigned Notification</sys_name>
+        <sys_package display_value="Safety Desk" source="x_1903597_safety_0">d60dec6f53d3f210eea679a0a0490e26</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety Desk">d60dec6f53d3f210eea679a0a0490e26</sys_scope>
+        <sys_update_name>sys_notification_workspace_content_30a03e17472fb250456e8c64116d43b7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-16 07:53:16</sys_updated_on>
+    </sys_notification_workspace_content>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety Desk">d60dec6f53d3f210eea679a0a0490e26</application>
+        <file_path/>
+        <instance_id>d597ce51ffd1e25cc812f8e4fc4fd94f</instance_id>
+        <instance_name>dev341177</instance_name>
+        <name>sys_notification_workspace_content_30a03e17472fb250456e8c64116d43b7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_notification_workspace_content"><sys_notification_workspace_content action="INSERT_OR_UPDATE"><active>true</active><is_default>false</is_default><name>Inquiry Assigned Notification</name><notification display_value="Inquiry Assigned Notification">088fe293472fb250456e8c64116d43cd</notification><route display_value="Agent Workspace">cb1af195872023002941b53046cb0b4e</route><sys_class_name>sys_notification_workspace_content</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-03-16 07:53:16</sys_created_on><sys_id>30a03e17472fb250456e8c64116d43b7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Inquiry Assigned Notification</sys_name><sys_package display_value="Safety Desk" source="x_1903597_safety_0">d60dec6f53d3f210eea679a0a0490e26</sys_package><sys_policy/><sys_scope display_value="Safety Desk">d60dec6f53d3f210eea679a0a0490e26</sys_scope><sys_update_name>sys_notification_workspace_content_30a03e17472fb250456e8c64116d43b7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-03-16 07:53:16</sys_updated_on></sys_notification_workspace_content></record_update>]]></payload>
+        <payload_hash>2028893417</payload_hash>
+        <record_name>Inquiry Assigned Notification</record_name>
+        <reverted_from/>
+        <source>c904b5fb47533210456e8c64116d43c5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-16 07:53:16</sys_created_on>
+        <sys_id>52b0fe17472fb250456e8c64116d439d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19cf5a28d910000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-16 07:53:16</sys_updated_on>
+        <type>Notification Workspace Content</type>
+        <update_guid>12b0fe17982fb2508ac46326428e6f9c</update_guid>
+        <update_guid_history>12b0fe17982fb2508ac46326428e6f9c:2028893417</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-16 08:25:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_notification_workspace_content">sys_notification_workspace_content</sys_db_object>
+        <sys_id>0602a88224da459481f2847e9321d519</sys_id>
+        <sys_metadata>30a03e17472fb250456e8c64116d43b7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Inquiry Assigned Notification</sys_name>
+        <sys_package display_value="Safety Desk" source="x_1903597_safety_0">d60dec6f53d3f210eea679a0a0490e26</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety Desk">d60dec6f53d3f210eea679a0a0490e26</sys_scope>
+        <sys_scope_delete display_value="">2560e7c7c67b437cb2e4053956637a89</sys_scope_delete>
+        <sys_update_name>sys_notification_workspace_content_30a03e17472fb250456e8c64116d43b7</sys_update_name>
+        <sys_update_version display_value="sys_notification_workspace_content_30a03e17472fb250456e8c64116d43b7">52b0fe17472fb250456e8c64116d439d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-16 08:25:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

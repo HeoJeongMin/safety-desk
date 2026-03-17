@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <controlled_by_refs/>
+        <decision_type>allow</decision_type>
+        <description/>
+        <local_or_existing>Existing</local_or_existing>
+        <name>x_1903597_safety_0_u_inquiry</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-09 06:36:54</sys_created_on>
+        <sys_id>6b1cd689476f3210456e8c64116d43ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1903597_safety_0_u_inquiry</sys_name>
+        <sys_package display_value="Safety Desk" source="x_1903597_safety_0">d60dec6f53d3f210eea679a0a0490e26</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety Desk">d60dec6f53d3f210eea679a0a0490e26</sys_scope>
+        <sys_update_name>sys_security_acl_6b1cd689476f3210456e8c64116d43ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-09 06:36:54</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety Desk">d60dec6f53d3f210eea679a0a0490e26</application>
+        <file_path/>
+        <instance_id>d597ce51ffd1e25cc812f8e4fc4fd94f</instance_id>
+        <instance_name>dev341177</instance_name>
+        <name>sys_security_acl_6b1cd689476f3210456e8c64116d43ed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description/><local_or_existing>Existing</local_or_existing><name>x_1903597_safety_0_u_inquiry</name><operation display_value="create">create</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-03-09 06:36:54</sys_created_on><sys_id>6b1cd689476f3210456e8c64116d43ed</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1903597_safety_0_u_inquiry</sys_name><sys_package display_value="Safety Desk" source="x_1903597_safety_0">d60dec6f53d3f210eea679a0a0490e26</sys_package><sys_policy/><sys_scope display_value="Safety Desk">d60dec6f53d3f210eea679a0a0490e26</sys_scope><sys_update_name>sys_security_acl_6b1cd689476f3210456e8c64116d43ed</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-03-09 06:36:54</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-117062294</payload_hash>
+        <record_name>x_1903597_safety_0_u_inquiry</record_name>
+        <reverted_from/>
+        <source>c904b5fb47533210456e8c64116d43c5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-09 06:36:55</sys_created_on>
+        <sys_id>231c1a89476f3210456e8c64116d431c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19cd1501fea0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-09 06:36:55</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>af1c1a89616f321042b22d2531e3681a</update_guid>
+        <update_guid_history>af1c1a89616f321042b22d2531e3681a:-117062294</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-17 06:34:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>2d0295281c0e44d39689e3638b1a7f39</sys_id>
+        <sys_metadata>6b1cd689476f3210456e8c64116d43ed</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1903597_safety_0_u_inquiry</sys_name>
+        <sys_package display_value="Safety Desk" source="x_1903597_safety_0">d60dec6f53d3f210eea679a0a0490e26</sys_package>
+        <sys_parent display_value="">9e1c5689476f3210456e8c64116d43c0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Safety Desk">d60dec6f53d3f210eea679a0a0490e26</sys_scope>
+        <sys_scope_delete display_value="">2560e7c7c67b437cb2e4053956637a89</sys_scope_delete>
+        <sys_update_name>sys_security_acl_6b1cd689476f3210456e8c64116d43ed</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_6b1cd689476f3210456e8c64116d43ed">231c1a89476f3210456e8c64116d431c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-17 06:34:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
