@@ -41,7 +41,7 @@
         <lookup_value/>
         <macro/>
         <macroponent/>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>true</mask_use_encryption>
@@ -52,7 +52,7 @@
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>내용</question_text>
+        <question_text>문의 내용</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -82,18 +82,18 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-11 05:45:11</sys_created_on>
         <sys_id>7a336c39476f7610456e8c64116d43dc</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>내용</sys_name>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>문의 내용</sys_name>
         <sys_package display_value="Safety Desk" source="x_1903597_safety_0">d60dec6f53d3f210eea679a0a0490e26</sys_package>
         <sys_policy/>
         <sys_scope display_value="Safety Desk">d60dec6f53d3f210eea679a0a0490e26</sys_scope>
         <sys_update_name>item_option_new_7a336c39476f7610456e8c64116d43dc</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-11 05:45:12</sys_updated_on>
+        <sys_updated_on>2026-03-17 09:10:03</sys_updated_on>
         <table/>
         <tooltip/>
         <topic_block/>
-        <type>23</type>
+        <type>2</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>

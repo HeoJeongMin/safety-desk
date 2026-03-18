@@ -10,7 +10,7 @@
         <conversational_label/>
         <create_roles/>
         <default_html_value/>
-        <default_value/>
+        <default_value>6816f79cc0a8016401c5a33be04be441</default_value>
         <delete_roles/>
         <delivery_plan/>
         <description/>
@@ -44,23 +44,23 @@
         <mandatory>false</mandatory>
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
-        <mask_use_encryption>false</mask_use_encryption>
-        <name>formatter</name>
+        <mask_use_encryption>true</mask_use_encryption>
+        <name>requested_for</name>
         <not_available_conversation>false</not_available_conversation>
-        <order>700</order>
+        <order>0</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text/>
-        <read_only>false</read_only>
+        <question_text>등록자</question_text>
+        <read_only>true</read_only>
         <read_roles/>
         <read_script/>
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
         <record/>
         <record_producer_table>x_1903597_safety_0_u_inquiry</record_producer_table>
-        <reference/>
+        <reference>sys_user</reference>
         <reference_qual/>
         <reference_qual_condition/>
         <rich_text/>
@@ -80,20 +80,20 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2026-03-11 04:26:49</sys_created_on>
-        <sys_id>1d81d0b547eb7610456e8c64116d4319</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>formatter</sys_name>
+        <sys_created_on>2026-03-17 08:21:57</sys_created_on>
+        <sys_id>ebbfff2347677650456e8c64116d43c6</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>requested_for</sys_name>
         <sys_package display_value="Safety Desk" source="x_1903597_safety_0">d60dec6f53d3f210eea679a0a0490e26</sys_package>
         <sys_policy/>
         <sys_scope display_value="Safety Desk">d60dec6f53d3f210eea679a0a0490e26</sys_scope>
-        <sys_update_name>item_option_new_1d81d0b547eb7610456e8c64116d4319</sys_update_name>
+        <sys_update_name>item_option_new_ebbfff2347677650456e8c64116d43c6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-17 09:05:01</sys_updated_on>
+        <sys_updated_on>2026-03-17 08:53:04</sys_updated_on>
         <table/>
         <tooltip/>
         <topic_block/>
-        <type>20</type>
+        <type>31</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
@@ -109,22 +109,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=1d81d0b547eb7610456e8c64116d4319"/>
-    <fx_price action="delete_multiple" query="id=1d81d0b547eb7610456e8c64116d4319"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=ebbfff2347677650456e8c64116d43c6"/>
+    <fx_price action="delete_multiple" query="id=ebbfff2347677650456e8c64116d43c6"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="KRW">KRW</currency>
         <field>price_if_checked</field>
-        <id>1d81d0b547eb7610456e8c64116d4319</id>
+        <id>ebbfff2347677650456e8c64116d43c6</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2026-03-11 04:26:49</sys_created_on>
-        <sys_id>d581d0b547eb7610456e8c64116d4327</sys_id>
+        <sys_created_on>2026-03-17 08:21:58</sys_created_on>
+        <sys_id>54e00c7f47677650456e8c64116d43f0</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-11 04:26:49</sys_updated_on>
+        <sys_updated_on>2026-03-17 08:21:58</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -132,16 +132,16 @@
         <amount>0</amount>
         <currency display_value="KRW">KRW</currency>
         <field>rec_price_if_checked</field>
-        <id>1d81d0b547eb7610456e8c64116d4319</id>
+        <id>ebbfff2347677650456e8c64116d43c6</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2026-03-11 04:26:49</sys_created_on>
-        <sys_id>1d81d0b547eb7610456e8c64116d4326</sys_id>
+        <sys_created_on>2026-03-17 08:21:57</sys_created_on>
+        <sys_id>90e00c7f47677650456e8c64116d43ee</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-11 04:26:49</sys_updated_on>
+        <sys_updated_on>2026-03-17 08:21:57</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
