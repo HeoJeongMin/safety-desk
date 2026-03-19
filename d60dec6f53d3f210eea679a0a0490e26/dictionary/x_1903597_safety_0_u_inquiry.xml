@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4bb0425853bf3a90eea679a0a0490e56" extends="task" label="Inquiry" max_length="40" name="x_1903597_safety_0_u_inquiry" type="collection">
+        <element label="Domain" max_length="32" name="u_domain" reference="x_1903597_safety_0_u_domain" type="reference"/>
+        <element label="Sub Domain" max_length="32" name="u_sub_domain" reference="x_1903597_safety_0_u_sub_domain" type="reference"/>
+        <element label="Inquiry Code" max_length="40" name="u_inquiry_code" type="string"/>
+        <element label="Top Category" max_length="32" name="u_top_category" reference="x_1903597_safety_0_u_top_category" type="reference"/>
+    </element>
+</database>
