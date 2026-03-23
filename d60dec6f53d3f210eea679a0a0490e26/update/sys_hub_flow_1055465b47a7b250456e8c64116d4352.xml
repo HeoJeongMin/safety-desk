@@ -36,7 +36,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>1055465b47a7b250456e8c64116d4352</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Inquiry Assignment Notification</sys_name>
         <sys_overrides/>
         <sys_package display_value="Safety Desk" source="x_1903597_safety_0">d60dec6f53d3f210eea679a0a0490e26</sys_package>
@@ -44,11 +44,11 @@
         <sys_scope display_value="Safety Desk">d60dec6f53d3f210eea679a0a0490e26</sys_scope>
         <sys_update_name>sys_hub_flow_1055465b47a7b250456e8c64116d4352</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-16 06:47:56</sys_updated_on>
+        <sys_updated_on>2026-03-23 04:23:54</sys_updated_on>
         <type>flow</type>
         <updation_source/>
         <version>2</version>
-        <version_record>51c1261747abb250456e8c64116d43ed</version_record>
+        <version_record/>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=1055465b47a7b250456e8c64116d4352"/>
     <sys_variable_value action="delete_multiple" query="document_key=1055465b47a7b250456e8c64116d4352"/>
@@ -343,11 +343,11 @@
         <sys_created_on>2026-03-16 04:43:47</sys_created_on>
         <sys_id>a6550a5b47a7b250456e8c64116d4397</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Record</sys_name>
         <sys_package display_value="Safety Desk" source="x_1903597_safety_0">d60dec6f53d3f210eea679a0a0490e26</sys_package>
         <sys_policy/>
         <sys_scope display_value="Safety Desk">d60dec6f53d3f210eea679a0a0490e26</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_1055465b47a7b250456e8c64116d4352_current_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2026-03-16 04:43:47</sys_updated_on>
         <url/>
@@ -366,11 +366,11 @@
         <sys_created_on>2026-03-16 04:43:47</sys_created_on>
         <sys_id>ee550a5b47a7b250456e8c64116d43a2</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table Name</sys_name>
         <sys_package display_value="Safety Desk" source="x_1903597_safety_0">d60dec6f53d3f210eea679a0a0490e26</sys_package>
         <sys_policy/>
         <sys_scope display_value="Safety Desk">d60dec6f53d3f210eea679a0a0490e26</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_1055465b47a7b250456e8c64116d4352_table_name_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2026-03-16 04:43:47</sys_updated_on>
         <url/>
@@ -672,11 +672,11 @@
         <sys_created_on>2026-03-16 06:47:56</sys_created_on>
         <sys_id>8dc1261747abb250456e8c64116d436e</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table Name</sys_name>
         <sys_package display_value="Safety Desk" source="x_1903597_safety_0">d60dec6f53d3f210eea679a0a0490e26</sys_package>
         <sys_policy/>
         <sys_scope display_value="Safety Desk">d60dec6f53d3f210eea679a0a0490e26</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_4dc1261747abb250456e8c64116d4341_table_name_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2026-03-16 06:47:56</sys_updated_on>
         <url/>
@@ -695,11 +695,11 @@
         <sys_created_on>2026-03-16 06:47:55</sys_created_on>
         <sys_id>c9c1261747abb250456e8c64116d4363</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Record</sys_name>
         <sys_package display_value="Safety Desk" source="x_1903597_safety_0">d60dec6f53d3f210eea679a0a0490e26</sys_package>
         <sys_policy/>
         <sys_scope display_value="Safety Desk">d60dec6f53d3f210eea679a0a0490e26</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_4dc1261747abb250456e8c64116d4341_current_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2026-03-16 06:47:55</sys_updated_on>
         <url/>

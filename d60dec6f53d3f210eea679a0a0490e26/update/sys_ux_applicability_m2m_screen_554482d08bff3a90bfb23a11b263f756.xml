@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Public">dd4482d05eff3a90264e38b44ace2e62</applicability>
+        <order>0</order>
+        <screen display_value="Login Default">514482d078ff3a90e69d078428ba6356</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-19 07:13:02</sys_created_on>
+        <sys_id>554482d08bff3a90bfb23a11b263f756</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Safety Desk" source="x_1903597_safety_0">d60dec6f53d3f210eea679a0a0490e26</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety Desk">d60dec6f53d3f210eea679a0a0490e26</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_554482d08bff3a90bfb23a11b263f756</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-19 07:13:02</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="kb_uc_can_contribute_mtom">
     <kb_uc_can_contribute_mtom action="INSERT_OR_UPDATE">
-        <kb_knowledge_base display_value="My New Knowledge Base">8d274a5f47a7b250456e8c64116d4343</kb_knowledge_base>
+        <kb_knowledge_base display_value="">8d274a5f47a7b250456e8c64116d4343</kb_knowledge_base>
         <sys_class_name>kb_uc_can_contribute_mtom</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-16 04:51:36</sys_created_on>

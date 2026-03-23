@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="ea3faa0547237210456e8c64116d4304" label="u_inquiry_assignment" max_length="40" name="x_1903597_safety_0_u_inquiry_assignment" type="collection">
+        <element label="Assigned To" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
         <element label="Assignment Group" max_length="32" name="assignment_group" reference="sys_user_group" type="reference"/>
         <element label="Inquiry Code" max_length="40" name="inquiry_code" type="string"/>
-        <element label="Assigned To" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
         <index name="index">
             <element name="assigned_to"/>
         </index>

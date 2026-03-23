@@ -47,7 +47,7 @@
         <mask_use_encryption>false</mask_use_encryption>
         <name>aatl82l2oyp3i9p7k7d4f63m5</name>
         <not_available_conversation>false</not_available_conversation>
-        <order>400</order>
+        <order>600</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
@@ -82,14 +82,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-11 04:26:49</sys_created_on>
         <sys_id>91819cf147eb7610456e8c64116d438a</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>내용</sys_name>
         <sys_package display_value="Safety Desk" source="x_1903597_safety_0">d60dec6f53d3f210eea679a0a0490e26</sys_package>
         <sys_policy/>
         <sys_scope display_value="Safety Desk">d60dec6f53d3f210eea679a0a0490e26</sys_scope>
         <sys_update_name>item_option_new_91819cf147eb7610456e8c64116d438a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-11 04:26:50</sys_updated_on>
+        <sys_updated_on>2026-03-19 07:02:21</sys_updated_on>
         <table/>
         <tooltip/>
         <topic_block/>

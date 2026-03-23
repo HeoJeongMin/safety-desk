@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="140ed68d476f3210456e8c64116d4327" label="u_top_category" max_length="40" name="x_1903597_safety_0_u_top_category" type="collection">
-        <element label="Code" max_length="40" name="code" type="string"/>
         <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Code" max_length="40" name="code" type="string"/>
     </element>
 </database>
